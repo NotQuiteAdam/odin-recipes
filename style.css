@@ -1,0 +1,16 @@
+* {
+    font-family: Helvetica, sans-serif;
+    background-color: black;
+    color: white;
+}
+a {
+    color: red;
+}
+.rounded {
+    border-radius: 10%;
+}
+.container {
+    background-color: thistle;
+    color: cadetblue;
+    border-radius: 10%;
+}
